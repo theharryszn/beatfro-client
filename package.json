@@ -12,9 +12,14 @@
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
     "framer-motion": "^3.10.0",
+    "graphql": "^15.5.0",
+    "jwt-decode": "^3.1.2",
+    "moment": "^2.29.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
+    "swiper": "^6.4.15",
     "typescript": "^4.1.2",
     "web-vitals": "^1.0.1"
   },
@@ -44,6 +49,9 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss7-compat": "^2.0.3",
+    "@types/graphql": "^14.5.0",
+    "@types/jwt-decode": "^3.1.0",
+    "@types/react-router-dom": "^5.1.7",
     "autoprefixer": "9",
     "postcss": "7",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat"
