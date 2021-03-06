@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import AuthContextProvider from './context/AuthContext';
+import 'swiper/swiper.scss';
 
 
 
